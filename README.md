@@ -39,7 +39,7 @@ Sebuah Go module lengkap dan mudah digunakan untuk **Temporal Workflow Engine**.
 go mod init nama-project-anda
 
 # Install module ini
-go get github.com/hantulautt/go-mod-temporal
+go get github.com/kangkosw/go-mod-temporal
 ```
 
 ## 🌏 Timezone Indonesia (WIB)
@@ -98,8 +98,8 @@ import (
     
     "go.temporal.io/sdk/workflow"
     
-    "github.com/hantulautt/go-mod-temporal/client"
-    "github.com/hantulautt/go-mod-temporal/worker"
+    "github.com/kangkosw/go-mod-temporal/client"
+    "github.com/kangkosw/go-mod-temporal/worker"
 )
 
 // Contoh workflow sederhana
@@ -176,9 +176,9 @@ import (
     "log"
     "time"
     
-    "github.com/hantulautt/go-mod-temporal/client"
-    "github.com/hantulautt/go-mod-temporal/schedule"
-    "github.com/hantulautt/go-mod-temporal/worker"
+    "github.com/kangkosw/go-mod-temporal/client"
+    "github.com/kangkosw/go-mod-temporal/schedule"
+    "github.com/kangkosw/go-mod-temporal/worker"
 )
 
 // Workflow untuk laporan harian
@@ -255,9 +255,9 @@ import (
     "go.temporal.io/sdk/client"
     "go.temporal.io/sdk/workflow"
     
-    temporalclient "github.com/hantulautt/go-mod-temporal/client"
-    "github.com/hantulautt/go-mod-temporal/worker"
-    workflowpkg "github.com/hantulautt/go-mod-temporal/workflow"
+    temporalclient "github.com/kangkosw/go-mod-temporal/client"
+    "github.com/kangkosw/go-mod-temporal/worker"
+    workflowpkg "github.com/kangkosw/go-mod-temporal/workflow"
 )
 
 // Workflow untuk mengirim email
@@ -362,9 +362,9 @@ import (
     "go.temporal.io/sdk/temporal"
     "go.temporal.io/sdk/workflow"
     
-    temporalclient "github.com/hantulautt/go-mod-temporal/client"
-    "github.com/hantulautt/go-mod-temporal/worker"
-    workflowpkg "github.com/hantulautt/go-mod-temporal/workflow"
+    temporalclient "github.com/kangkosw/go-mod-temporal/client"
+    "github.com/kangkosw/go-mod-temporal/worker"
+    workflowpkg "github.com/kangkosw/go-mod-temporal/workflow"
 )
 
 // Workflow yang mungkin gagal (simulasi koneksi jaringan)
@@ -672,7 +672,7 @@ Project ini menggunakan lisensi MIT - lihat file [LICENSE](LICENSE) untuk detail
 
 ## 🆘 Bantuan
 
-- **Issues**: [GitHub Issues](https://github.com/hantulautt/go-mod-temporal/issues)
+- **Issues**: [GitHub Issues](https://github.com/kangkosw/go-mod-temporal/issues)
 - **Dokumentasi**: Folder [examples/](examples/) untuk contoh praktis
 - **Community**: [Temporal Community](https://community.temporal.io/)
 

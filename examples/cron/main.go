@@ -5,9 +5,9 @@ import (
 	"log"
 	"time"
 
-	"github.com/hantulautt/go-mod-temporal/client"
-	"github.com/hantulautt/go-mod-temporal/patterns"
-	"github.com/hantulautt/go-mod-temporal/worker"
+	"github.com/kangkosw/go-mod-temporal/client"
+	"github.com/kangkosw/go-mod-temporal/patterns"
+	"github.com/kangkosw/go-mod-temporal/worker"
 	"go.temporal.io/sdk/workflow"
 )
 

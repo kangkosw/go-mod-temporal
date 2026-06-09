@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	workflowPkg "github.com/hantulautt/go-mod-temporal/workflow"
+	workflowPkg "github.com/kangkosw/go-mod-temporal/workflow"
 	"go.temporal.io/sdk/client"
 	"go.temporal.io/sdk/temporal"
 )

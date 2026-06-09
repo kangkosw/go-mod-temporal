@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	activityPkg "github.com/hantulautt/go-mod-temporal/activity"
+	activityPkg "github.com/kangkosw/go-mod-temporal/activity"
 	"go.temporal.io/sdk/client"
 	"go.temporal.io/sdk/worker"
 )
