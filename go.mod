@@ -1,4 +1,4 @@
-module github.com/hantulautt/go-mod-temporal
+module github.com/kangkosw/go-mod-temporal
 
 go 1.23.0
 

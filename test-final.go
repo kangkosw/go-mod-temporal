@@ -132,7 +132,7 @@ func main() {
 
 	// Test 3: Informasi Module
 	fmt.Println("\n=== Test 3: Module Information ===")
-	fmt.Println("📦 Module Name: github.com/hantulautt/go-mod-temporal")
+	fmt.Println("📦 Module Name: github.com/kangkosw/go-mod-temporal")
 	fmt.Println("🏗️ Go Version: 1.23.0")
 	fmt.Println("⚡ Temporal SDK: v1.21.2")
 	fmt.Println("🌏 Timezone Support: Asia/Jakarta (WIB/GMT+7)")

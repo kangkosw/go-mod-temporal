@@ -3,7 +3,7 @@
 ## ✅ PROYEK BERHASIL DISELESAIKAN!
 
 ### 📦 Module Information
-- **Nama Module**: github.com/hantulautt/go-mod-temporal
+- **Nama Module**: github.com/kangkosw/go-mod-temporal
 - **Go Version**: 1.23.0  
 - **Temporal SDK**: v1.21.2
 - **Timezone**: Asia/Jakarta (WIB/GMT+7)
@@ -118,7 +118,7 @@ go-temporal-module/
 | Requirement | Status | Implementation |
 |-------------|--------|----------------|
 | ✅ Go Module yang bisa digunakan secara general | ✅ DONE | 12 packages dengan API yang clean |
-| ✅ Nama gomod = github.com/hantulautt/go-mod-temporal | ✅ DONE | Module name configured |
+| ✅ Nama gomod = github.com/kangkosw/go-mod-temporal | ✅ DONE | Module name configured |
 | ✅ Cron Jobs (looping otomatis) | ✅ DONE | pkg/cron & pkg/schedules |
 | ✅ One-Shot Execution | ✅ DONE | pkg/oneshot |
 | ✅ Retry otomatis ketika gagal | ✅ DONE | pkg/retry |
@@ -133,7 +133,7 @@ go-temporal-module/
 
 1. **Install Module**:
    ```bash
-   go get github.com/hantulautt/go-mod-temporal
+   go get github.com/kangkosw/go-mod-temporal
    ```
 
 2. **Setup Docker Temporal** (if needed):

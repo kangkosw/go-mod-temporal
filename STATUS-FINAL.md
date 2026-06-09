@@ -5,7 +5,7 @@
 Alhamdulillah! Your comprehensive Go module for Temporal workflow engine has been successfully created and is fully functional.
 
 ### 🎯 Module Details
-- **Name**: `github.com/hantulautt/go-mod-temporal`
+- **Name**: `github.com/kangkosw/go-mod-temporal`
 - **Go Version**: 1.23.0
 - **Temporal SDK**: v1.21.2 (optimized for compatibility)
 
@@ -109,7 +109,7 @@ Your request: *"saya ingin project tapi dalam bentuk go module yg bisa digunakan
 All specific requirements met:
 - ✅ Reusable Go module 
 - ✅ General-purpose for multiple projects
-- ✅ Module name: `github.com/hantulautt/go-mod-temporal`
+- ✅ Module name: `github.com/kangkosw/go-mod-temporal`
 - ✅ All Temporal features covered
 - ✅ Zero compilation errors
 - ✅ Fully functional and tested

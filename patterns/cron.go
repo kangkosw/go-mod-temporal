@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"time"
 
-	clientPkg "github.com/hantulautt/go-mod-temporal/client"
-	executionPkg "github.com/hantulautt/go-mod-temporal/execution"
-	schedulePkg "github.com/hantulautt/go-mod-temporal/schedule"
-	workflowPkg "github.com/hantulautt/go-mod-temporal/workflow"
+	clientPkg "github.com/kangkosw/go-mod-temporal/client"
+	executionPkg "github.com/kangkosw/go-mod-temporal/execution"
+	schedulePkg "github.com/kangkosw/go-mod-temporal/schedule"
+	workflowPkg "github.com/kangkosw/go-mod-temporal/workflow"
 	"go.temporal.io/sdk/temporal"
 )
 
